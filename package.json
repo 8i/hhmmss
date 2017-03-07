@@ -1,6 +1,6 @@
 {
   "name": "hhmmss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Converts seconds to hh:mm:ss formatted string for use in media players",
   "main": "index.js",
   "scripts": {
